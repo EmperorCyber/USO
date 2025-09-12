@@ -17,6 +17,8 @@
 ><span style="font-size: 12px">Intelligent Creation Lab, Bytedance</span></p>
 
 ### 🚩 Updates
+* **2025.09.12** 🔥 Our new family member [UMO](https://github.com/bytedance/UMO) is here! It focuses on multiple identities and subject-driven generation. You can visit the <a href="https://bytedance.github.io/UMO/" target="_blank">UMO project page</a> for more examples.
+
 * **2025.09.03** 🎉 USO is now natively supported in ComfyUI, see official tutorial [USO in ComfyUI](https://docs.comfy.org/tutorials/flux/flux-1-uso) and our provided examples in `./workflow`. More tips are available in the [README below](https://github.com/bytedance/USO#%EF%B8%8F-comfyui-examples).
 <p align="center">
 <img src="assets/usoxcomfyui_official.jpeg" width=1024 height="auto">
